@@ -1,1 +1,1 @@
-# T-spaced-simulation-of-a-digital-transmission-system
+# T-spaced simulation of a digital transmission system
